@@ -1,0 +1,11 @@
+To compile the code, please, run make in this directorty.
+
+To run the program, simply execute ./hw2_histogram (INPUT_LENGTH) (DISTRIBUTION_TYPE)
+
+The program has 2 parameters:
+- INPUT_LENGTH: Length of the input random array
+- DISTRIBUTION_TYPE: Type of distribution to be used. 1 denotes Uniform Distribution while 2 denotes Normal Distribution.
+
+If none of these paramters are provided, then the program will use a default input length of 1048576 with a Normal Distribution
+
+The program outputs a csv file with the resulting histogram computation.

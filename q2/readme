@@ -1,0 +1,7 @@
+To compile the code, please, run make in this directorty.
+
+2 programs are provided:
+
+1) hw2_reduction: Computes the sum of a random input array of floats. Input array length called be passed as a program argument as ./hw2_reduction (INPUT_LENGTH), or otherwise, by default an array of 1048576 elements is considered.
+
+2) hw2_reduction_multiple. It does the same as hw2_reduction, but starting from an inpput length of 512, it doubles the input length every iteration, for 10 runs.
