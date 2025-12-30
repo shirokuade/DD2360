@@ -1,0 +1,3 @@
+To compile the code, please, run make in this directorty.
+
+To run the program, simply execute ./hw4-convolution N
