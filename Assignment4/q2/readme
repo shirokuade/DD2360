@@ -1,3 +1,7 @@
 To compile the code, please, run make in this directorty.
 
-To run the program, simply execute ./hw4-convolution N
+2 programs are provided:
+
+1) hw4-heat: Version with prefetching.
+
+2) hw4-heat_nopref. Version without prefetching.
